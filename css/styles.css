@@ -9,8 +9,9 @@ footer {
   text-align: center;
   display: block;
 }
-a {
+footer a {
   margin: 0.5em;
+  color: green;
 }
 .croissant-photo {
   max-width: 50%;
