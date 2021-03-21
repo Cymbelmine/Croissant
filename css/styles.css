@@ -1,7 +1,8 @@
 body {
   background-color: antiquewhite;
 }
-h1 {
+h1,
+p {
   text-align: center;
 }
 footer {
@@ -10,4 +11,10 @@ footer {
 }
 a {
   margin: 0.5em;
+}
+.croissant-photo {
+  max-width: 50%;
+  border-radius: 10px;
+  display: block;
+  margin: 1.5em auto;
 }
